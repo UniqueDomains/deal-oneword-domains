@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C549%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C550%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C549%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .deal one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,549 rows · **Live catalog:** 7,549 domains
+**Public extract:** 7,550 rows · **Live catalog:** 7,549 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/deal`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DEAL one-word domain 
 
 ### Files
 
-- `deal.csv` — public CSV extract (7,549 rows)
-- `deal.json` — public JSON extract (7,549 rows)
+- `deal.csv` — public CSV extract (7,550 rows)
+- `deal.json` — public JSON extract (7,550 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,21 +67,21 @@ print(df.head())
 | seventeen.deal  | available | $24.99    | $59.99        | 84             | 62     | 9      | name.com        |
 | square.deal     | resell    | —         | —             | 72             | 65     | 6      | Porkbun LLC     |
 | nationwide.deal | premium   | $125      | $125          | 76             | 66     | 10     | name.com        |
-| genius.deal     | available | $24.99    | $59.99        | 98             | 47     | 6      | name.com        |
+| genius.deal     | available | $24.99    | $59.99        | 98             | 45     | 6      | name.com        |
 | bravo.deal      | resell    | —         | —             | 66             | 65     | 5      | Porkbun LLC     |
 | free.deal       | premium   | $3,125    | $3,125        | 88             | 59     | 4      | name.com        |
-| wizard.deal     | available | $24.99    | $59.99        | 118            | 46     | 6      | name.com        |
+| goto.deal       | available | $48.98    | —             | 66             | 45     | 5      | namecheap       |
 | snap.deal       | resell    | —         | —             | 90             | 46     | 4      | Porkbun LLC     |
 | cloud.deal      | premium   | $650      | $650          | 70             | 59     | 5      | namecheap       |
-| goto.deal       | available | $48.98    | —             | 66             | 45     | 5      | namecheap       |
+| wizard.deal     | available | $24.99    | $59.99        | 118            | 43     | 6      | name.com        |
 | shift.deal      | resell    | —         | —             | 70             | 46     | 5      | Dynadot Inc     |
 | ace.deal        | premium   | $125      | $125          | 88             | 57     | 3      | name.com        |
-| agile.deal      | available | $24.99    | $59.99        | 92             | 42     | 5      | name.com        |
+| agile.deal      | available | $24.99    | $59.99        | 92             | 41     | 5      | name.com        |
 | perfect.deal    | resell    | —         | —             | 124            | 42     | 7      | EuroDNS S.A.    |
-| data.deal       | premium   | $650      | $650          | 70             | 56     | 4      | namecheap       |
-| unity.deal      | available | $24.99    | $59.99        | 70             | 41     | 5      | name.com        |
+| live.deal       | premium   | $625      | $625          | 108            | 56     | 4      | name.com        |
+| unity.deal      | available | $24.99    | $59.99        | 70             | 40     | 5      | name.com        |
 | sport.deal      | resell    | —         | —             | 70             | 37     | 5      | Dynadot Inc     |
-| live.deal       | premium   | $625      | $625          | 108            | 55     | 4      | name.com        |
+| data.deal       | premium   | $650      | $650          | 70             | 56     | 4      | namecheap       |
 | learning.deal   | available | $48.98    | —             | 80             | 39     | 8      | namecheap       |
 | weed.deal       | resell    | —         | —             | 64             | 37     | 4      | NameCheap, Inc. |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,549-row public sample | 7,549 live domains                               |
+| 7,550-row public sample | 7,549 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
