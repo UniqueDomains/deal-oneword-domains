@@ -69,20 +69,20 @@ print(df.head())
 | nationwide.deal | premium   | $125      | $125          | 76             | 66     | 10     | name.com        |
 | genius.deal     | available | $24.99    | $59.99        | 98             | 45     | 6      | name.com        |
 | bravo.deal      | resell    | —         | —             | 66             | 65     | 5      | Porkbun LLC     |
-| free.deal       | premium   | $3,125    | $3,125        | 88             | 59     | 4      | name.com        |
+| cloud.deal      | premium   | $650      | $650          | 70             | 59     | 5      | namecheap       |
 | goto.deal       | available | $48.98    | —             | 66             | 45     | 5      | namecheap       |
 | snap.deal       | resell    | —         | —             | 90             | 46     | 4      | Porkbun LLC     |
-| cloud.deal      | premium   | $650      | $650          | 70             | 59     | 5      | namecheap       |
+| ace.deal        | premium   | $125      | $125          | 88             | 57     | 3      | name.com        |
 | wizard.deal     | available | $24.99    | $59.99        | 118            | 43     | 6      | name.com        |
 | shift.deal      | resell    | —         | —             | 70             | 46     | 5      | Dynadot Inc     |
-| ace.deal        | premium   | $125      | $125          | 88             | 57     | 3      | name.com        |
+| free.deal       | premium   | $3,125    | $3,125        | 88             | 57     | 4      | name.com        |
 | agile.deal      | available | $24.99    | $59.99        | 92             | 41     | 5      | name.com        |
 | perfect.deal    | resell    | —         | —             | 124            | 42     | 7      | EuroDNS S.A.    |
 | live.deal       | premium   | $625      | $625          | 108            | 56     | 4      | name.com        |
 | unity.deal      | available | $24.99    | $59.99        | 70             | 40     | 5      | name.com        |
 | sport.deal      | resell    | —         | —             | 70             | 37     | 5      | Dynadot Inc     |
 | data.deal       | premium   | $650      | $650          | 70             | 56     | 4      | namecheap       |
-| learning.deal   | available | $48.98    | —             | 80             | 39     | 8      | namecheap       |
+| gather.deal     | available | $24.99    | $59.99        | 96             | 39     | 6      | name.com        |
 | weed.deal       | resell    | —         | —             | 64             | 37     | 4      | NameCheap, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
