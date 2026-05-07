@@ -665,6 +665,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 380aa474-2a9f-4999-acc5-6df9b80c7673,smarted.deal,available,48.98,,53,5,7,namecheap,,
 3810421d-3f3a-43e3-a463-e426cfbb9af9,cupboards.deal,available,38.99,38.99,48,3,9,namesilo,,
 3850e86c-e3a3-4f43-bf48-0b848e202311,goaroundthehouses.deal,available,48.98,,60,0,20,namecheap,,
+385cb9fd-650a-4284-b9e5-c114b1103eed,hedge.deal,available,38.99,38.99,68,23,5,namesilo,,
 38902e7b-40dc-4872-a416-c5d558ca5a51,Iputittoyou.deal,available,48.98,,50,1,15,namecheap,,
 38b36480-7cba-4ba0-a8f3-772248f1f80a,smarts.deal,available,48.98,,67,16,6,namecheap,,
 38d9efcd-a2cd-4f33-ab69-83315b038e83,offices.deal,available,48.98,,60,16,7,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5400c527-f4cf-4755-b8bb-2b9d8f24b192,apartments.deal,premium,625,,60,21,10,name.com,,
 541a9a03-974d-4264-80cb-26c8de209115,DakotaCounty.deal,available,48.98,,52,2,13,namecheap,,
 5451b646-24fa-417d-a54e-2399596da405,YankeeDoodle.deal,available,48.98,,63,2,13,namecheap,,
-5459d1f3-8144-474c-8b0a-d7b23399ca46,costcutting.deal,available,48.98,,64,3,12,namecheap,,
