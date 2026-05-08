@@ -1,10 +1,10 @@
-# Available .DEAL One-Word Domains (10,542)
+# Available .DEAL One-Word Domains (10,544)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C542%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C544%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .deal one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,542 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,544 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,542 domains · **Median ask:** $80.71 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,544 domains · **Median ask:** $80.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/deal`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | popup.deal         | available | $48.98    | —             | 84             | 29     | 6      | namecheap   |
 | playon.deal        | available | $48.98    | —             | 80             | 14     | 7      | namecheap   |
 | hangon.deal        | available | $48.98    | —             | 82             | 6      | 7      | namecheap   |
-| travelers.deal     | available | $38.99    | $38.99        | 58             | 61     | 9      | namesilo    |
+| omega.deal         | available | $38.99    | $38.99        | 78             | 70     | 5      | namesilo    |
 | rare.deal          | resell    | —         | —             | 78             | 40     | 4      | Porkbun LLC |
 | Books.deal         | premium   | $700      | $700          | 52             | 49     | 5      | namecheap   |
-| regions.deal       | available | $48.98    | —             | 64             | 59     | 7      | namecheap   |
+| travelers.deal     | available | $38.99    | $38.99        | 58             | 61     | 9      | namesilo    |
 | Ryan.deal          | premium   | $140      | $140          | 60             | 44     | 4      | namecheap   |
-| keepthechange.deal | available | $48.98    | —             | 46             | 59     | 15     | namecheap   |
+| regions.deal       | available | $48.98    | —             | 64             | 59     | 7      | namecheap   |
 | WiFi.deal          | premium   | $140      | $140          | 83             | 37     | 5      | namecheap   |
-| shortcuts.deal     | available | $48.98    | —             | 48             | 41     | 10     | namecheap   |
+| keepthechange.deal | available | $48.98    | —             | 46             | 59     | 15     | namecheap   |
 | tickets.deal       | premium   | $625      | —             | 64             | 34     | 7      | name.com    |
-| prompts.deal       | available | $38.99    | $38.99        | 54             | 39     | 7      | namesilo    |
+| shortcuts.deal     | available | $48.98    | —             | 48             | 41     | 10     | namecheap   |
 | etc.deal           | premium   | $125      | —             | 58             | 34     | 3      | name.com    |
+| prompts.deal       | available | $38.99    | $38.99        | 54             | 39     | 7      | namesilo    |
 | William.deal       | premium   | $140      | $140          | 74             | 31     | 7      | namecheap   |
-| blocks.deal        | available | $48.98    | —             | 53             | 29     | 6      | namecheap   |
 | videos.deal        | premium   | $125      | —             | 52             | 30     | 6      | name.com    |
-| pages.deal         | available | $48.98    | —             | 52             | 28     | 5      | namecheap   |
+| blocks.deal        | available | $48.98    | —             | 53             | 29     | 6      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,542 live domains                        |
+| 1,000-row public sample | 10,544 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -879,6 +879,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49054ecb-cbb1-43a9-8400-32c4f50de251,textmessages.deal,available,48.98,,52,3,13,namecheap,,
 49371c44-4f8a-4357-8d74-eb5d89f2c1ee,getthroughto.deal,available,48.98,,49,1,14,namecheap,,
 493ab671-d45e-41a7-9743-d536197a8961,VirginiaBeach.deal,premium,140,140,58,9,14,namecheap,,
+4953fd6e-bb91-4834-83f2-08d640a7a381,omega.deal,available,38.99,38.99,78,70,5,namesilo,,
 4956fb4f-2b32-4a1b-8fb2-ccdeb0354cf9,breakfastcereal.deal,available,48.98,,72,2,16,namecheap,,
 49699039-501c-492e-a074-2aec7576732d,deaths.deal,available,38.99,38.99,50,6,6,namesilo,,
 496a13c0-0d45-4ebc-9848-5cba21d0be3e,ChildJesus.deal,available,48.98,,56,2,11,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53e92772-9b7e-44a7-831f-66b37fd3b841,makeovers.deal,available,38.99,38.99,62,3,9,namesilo,,
 5400c527-f4cf-4755-b8bb-2b9d8f24b192,apartments.deal,premium,625,,60,21,10,name.com,,
 541a9a03-974d-4264-80cb-26c8de209115,DakotaCounty.deal,available,48.98,,52,2,13,namecheap,,
-5451b646-24fa-417d-a54e-2399596da405,YankeeDoodle.deal,available,48.98,,63,2,13,namecheap,,
