@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .deal one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,544 domains · **Median ask:** $80.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/deal`  
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
