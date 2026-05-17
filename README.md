@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .deal one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,547 domains · **Median ask:** $80.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/deal`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | jewels.deal        | available | $48.98    | —             | 80             | 15     | 6      | namecheap   |
 | geton.deal         | available | $48.98    | —             | 82             | 10     | 6      | namecheap   |
-| popup.deal         | available | $48.98    | —             | 84             | 29     | 6      | namecheap   |
+| popup.deal         | available | $48.98    | —             | 84             | 28     | 6      | namecheap   |
 | playon.deal        | available | $48.98    | —             | 80             | 14     | 7      | namecheap   |
 | hangon.deal        | available | $48.98    | —             | 82             | 6      | 7      | namecheap   |
 | omega.deal         | available | $38.99    | $38.99        | 78             | 70     | 5      | namesilo    |
@@ -82,8 +82,8 @@ print(df.head())
 | etc.deal           | premium   | $125      | —             | 58             | 34     | 3      | name.com    |
 | prompts.deal       | available | $38.99    | $38.99        | 54             | 39     | 7      | namesilo    |
 | William.deal       | premium   | $140      | $140          | 74             | 31     | 7      | namecheap   |
-| videos.deal        | premium   | $125      | —             | 52             | 30     | 6      | name.com    |
 | blocks.deal        | available | $48.98    | —             | 53             | 29     | 6      | namecheap   |
+| videos.deal        | premium   | $125      | —             | 52             | 30     | 6      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
