@@ -1,10 +1,10 @@
-# Available .DEAL One-Word Domains (10,547)
+# Available .DEAL One-Word Domains (10,553)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C547%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C553%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .deal one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,547 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,553 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,547 domains · **Median ask:** $80.65 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,553 domains · **Median ask:** $98.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/deal`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/deal`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DEAL one-word domain 
 
 ### Files
 
-- `deal.csv` — public CSV extract (1,000 rows)
-- `deal.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `deal.csv`, public CSV extract (1,000 rows)
+- `deal.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| jewels.deal        | available | $48.98    | —             | 80             | 15     | 6      | namecheap   |
-| geton.deal         | available | $48.98    | —             | 82             | 10     | 6      | namecheap   |
-| popup.deal         | available | $48.98    | —             | 84             | 28     | 6      | namecheap   |
-| playon.deal        | available | $48.98    | —             | 80             | 14     | 7      | namecheap   |
-| hangon.deal        | available | $48.98    | —             | 82             | 6      | 7      | namecheap   |
-| omega.deal         | available | $38.99    | $38.99        | 78             | 70     | 5      | namesilo    |
-| rare.deal          | resell    | —         | —             | 78             | 40     | 4      | Porkbun LLC |
-| Books.deal         | premium   | $700      | $700          | 52             | 49     | 5      | namecheap   |
-| travelers.deal     | available | $38.99    | $38.99        | 58             | 61     | 9      | namesilo    |
-| Ryan.deal          | premium   | $140      | $140          | 60             | 44     | 4      | namecheap   |
-| regions.deal       | available | $48.98    | —             | 64             | 59     | 7      | namecheap   |
-| WiFi.deal          | premium   | $140      | $140          | 83             | 37     | 5      | namecheap   |
-| keepthechange.deal | available | $48.98    | —             | 46             | 59     | 15     | namecheap   |
-| tickets.deal       | premium   | $625      | —             | 64             | 34     | 7      | name.com    |
-| shortcuts.deal     | available | $48.98    | —             | 48             | 41     | 10     | namecheap   |
-| etc.deal           | premium   | $125      | —             | 58             | 32     | 3      | name.com    |
-| prompts.deal       | available | $38.99    | $38.99        | 54             | 39     | 7      | namesilo    |
-| William.deal       | premium   | $140      | $140          | 74             | 31     | 7      | namecheap   |
-| gods.deal          | available | $48.98    | —             | 72             | 29     | 4      | namecheap   |
-| videos.deal        | premium   | $125      | —             | 52             | 30     | 6      | name.com    |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bare.deal  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo        |
+| weed.deal  | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc. |
+| ADS.deal   | premium   | $1,250    | —             | high           | medium | 3      | name.com        |
+| bash.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
+| shift.deal | resell    | —         | —             | high           | medium | 5      | Dynadot Inc     |
+| arm.deal   | premium   | $116      | $116          | high           | medium | 3      | namesilo        |
+| bead.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
+| bar.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| boob.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
+| bed.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| bore.deal  | available | $24.99    | $59.99        | high           | low    | 4      | name.com        |
+| bow.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| chin.deal  | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo        |
+| boy.deal   | premium   | $125      | —             | medium         | low    | 3      | name.com        |
+| clam.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
+| did.deal   | premium   | $125      | —             | high           | low    | 3      | name.com        |
+| core.deal  | available | $48.98    | —             | medium         | medium | 4      | namecheap       |
+| egg.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
+| deck.deal  | available | $48.98    | —             | high           | low    | 4      | namecheap       |
+| end.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,547 live domains                        |
+| 1,000-row public sample | 10,553 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .deal domains. The extension gives the names a built-in commercial angle, so the strongest picks are words that read naturally with .deal and make the intent immediately clear. Examples such as jewels.deal, popup.deal, and matcha.deal show the range: product terms, retail language, and broader brandable words. With a median ask of $80.71, the entry price is relatively low, but quality still varies. When comparing these domains, focus on whether the word is easy to recognize, whether it pairs cleanly with .deal, and whether the meaning feels specific enough to support resale or direct use.
+This list includes 10,553 one-word .deal domain names, each a single unbroken string with no hyphens or numbers. The median asking price across the set is near $99, with individual prices varying by length, theme, and demand. Names range from everyday phrases like hangon.deal and chaitea.deal to industry terms like primarycare.deal, giving both founders and investors a wide pool to compare before choosing.
 
-- One-word .deal domains with clear commercial framing
-- Median ask is $80.71 across 10,542 domains
-- Best picks read naturally with the .deal extension
-- Check generic strength before buying brand-like words
+- 10,553 one-word .deal domains, updated daily
+- Median asking price near $99 across the set
+- Short, single-string names spanning many themes
+- Compare pricing and renewal before you decide
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
