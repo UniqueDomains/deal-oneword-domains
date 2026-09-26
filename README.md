@@ -1,10 +1,10 @@
-# Available .DEAL One-Word Domains (33,667)
+# Available .DEAL One-Word Domains (24,032)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C667%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C032%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .deal one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,667 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,032 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,667 domains · **Median ask:** $60.60 · **High-demand under $2,500:** 42
+**Public extract:** 1,000 rows · **Live catalog:** 24,032 domains · **Median ask:** $70.92 · **High-demand under $2,500:** 55
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/deal`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| aids.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| weed.deal  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| aaa.deal   | premium   | $130      | $130          | high           | medium | 3      | namecheap       |
-| avon.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| bravo.deal | resell    | —         | —             | high           | medium | 5      | Porkbun LLC     |
-| add.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| bash.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| shift.deal | resell    | —         | —             | high           | medium | 5      | Dynadot Inc     |
-| ads.deal   | premium   | $1,250    | —             | high           | medium | 3      | name.com        |
-| bead.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| arm.deal   | premium   | $116      | $116          | high           | medium | 3      | namesilo        |
-| beam.deal  | available | $38.99    | $38.99        | high           | medium | 4      | namesilo        |
-| axe.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| boob.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| bae.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| bump.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| bar.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| camo.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
-| bed.deal   | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| chin.deal  | available | $38.99    | $38.99        | high           | low    | 4      | namesilo        |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agua.deal | available | $38.98    | $48.98        | high           | low    | 4      | namecheap |
+| afl.deal  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| aids.deal | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| air.deal  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo  |
+| ames.deal | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| ana.deal  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| arty.deal | available | $38.98    | $48.98        | high           | low    | 4      | namecheap |
+| apc.deal  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
+| aves.deal | available | $38.98    | $48.98        | high           | low    | 4      | namecheap |
+| bja.deal  | premium   | $130      | $130          | medium         | low    | 3      | namecheap |
+| bane.deal | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| era.deal  | premium   | $116      | $116          | high           | medium | 3      | namesilo  |
+| bari.deal | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| etc.deal  | premium   | $125      | —             | high           | low    | 3      | name.com  |
+| bata.deal | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo  |
+| fcc.deal  | premium   | $130      | $130          | high           | low    | 3      | namecheap |
+| baum.deal | available | $38.99    | $38.99        | high           | low    | 4      | namesilo  |
+| gin.deal  | premium   | $130      | $130          | high           | low    | 3      | namecheap |
+| blat.deal | available | $38.98    | $48.98        | medium         | low    | 4      | namecheap |
+| iii.deal  | premium   | $116      | $116          | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,667 live domains                        |
+| 1,000-row public sample | 24,032 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 42 high-demand names under $2,500          |
+| Basic exported fields   | 55 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEAL One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
